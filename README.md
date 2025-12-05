@@ -1,6 +1,6 @@
 # language-detector-wili2018
 README — Language Detection Model
-This project contains a language detection model trained using a Naive Bayes classifier and TF-IDF text features.
+This project contains a language detection model trained using Multinomial Naive Bayes classifier and a HashingVectorizer (character-level n-grams).
 
 It can detect the language of:
 1.Single sentences
